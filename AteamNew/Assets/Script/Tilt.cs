@@ -4,14 +4,11 @@ using UnityEngine;
 
 public class Tilt : MonoBehaviour
 {
-    Transform target;
     float speed = 90f;
     float back_speed = 60f;
-    bool keyon = false;
     // Start is called before the first frame update
     void Start()
     {
-        target = GameObject.Find("Cube").transform;
     }
 
     // Update is called once per frame
