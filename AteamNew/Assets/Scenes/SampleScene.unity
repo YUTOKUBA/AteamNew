@@ -198,6 +198,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecf67c06e03f3214eb67211fcb7b07e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  target: {fileID: 0}
+  speed: 90
+  back_speed: 60
+  keyon: 0
+>>>>>>> kuba
+=======
+>>>>>>> parent of 55fbe14 (no message)
 --- !u!65 &385583339
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -432,6 +442,10 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 55fbe14 (no message)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1817433664
 GameObject:
@@ -463,3 +477,9 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+  m_LocalEulerAnglesHint: {x: 61.817, y: 0, z: 0}
+>>>>>>> kuba
+=======
+>>>>>>> parent of 55fbe14 (no message)
